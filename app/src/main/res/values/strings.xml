@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tug2</string>
+    <string name="name_here">Name Here</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="prefer_not_to_say">Prefer not to say</string>
+    <string name="gender">Gender</string>
+    <string name="next">Next</string>
+    <string-array name="age_ranges">
+        <item>Age Range</item>
+        <item>&lt;13</item>
+        <item>13–17</item>
+        <item>18–25</item>
+        <item>26–35</item>
+        <item>36–45</item>
+        <item>&gt;45</item>
+    </string-array>
+</resources>
